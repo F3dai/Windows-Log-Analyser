@@ -39,3 +39,21 @@ CI5235_Logs - All scans made will be logged to this directory. You can view them
 evtx_logs - This directory is reserved for the .evtx log files. These will be the files being analysed by the scripts. You can add or remove any. There are some example .evtx files already.
 
 evtx_dump.py - Used for converting evtx to xml. https://github.com/williballenthin/python-evtx
+
+## Example Usage
+
+Convert   - 00:05
+
+Analyse   - 01:15
+
+Visualise - 01:22 ( Visualisation shown on seperate window, see below for example )
+
+Event DB  - 01:40
+
+View Logs - 02:00
+
+[![asciicast](https://asciinema.org/a/340139.svg)](https://asciinema.org/a/340139)
+
+**Visualise example**:
+
+![visdata](https://imgur.com/1VJwx9v.png)
