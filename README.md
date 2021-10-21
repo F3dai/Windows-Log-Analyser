@@ -5,7 +5,15 @@ This was an assignment I completed for university.
 
 --
 
-If you're going to copy this, make a contribution / pull request to make it better ;) 
+If you're going to copy this, make a contribution / pull request to make it better ;) Some ideas:
+ - Remove all os.system() cus thats gross and not secure - you can import it as a local library instead. 
+ - Make a better loading bar, cus thats also gross.
+ - Create a .pdf / .html report.
+ - Use 'f strings' instead of appending strings together, cus that's gross.
+ - Import a logging module instead of using the one I created
+ - why sys.exit()?
+ - Find a way to remove all duplicate lines of scanning through files. Duplicate code is gross...
+ - Produce different kinds of graphs?
 
 ## Dependencies
 
